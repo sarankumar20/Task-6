@@ -1,4 +1,4 @@
-# List and Arrays
+# List or Arrays
 
 #1.you have been givenpython python list [10,501,22,37,100,999,87,351] your task is to create a two list one which all have even numbers and another list which all have odd numbers in it
 
